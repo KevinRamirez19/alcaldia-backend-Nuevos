@@ -146,7 +146,7 @@ export default function HomePage() {
                 className="h-48 rounded-t-lg bg-cover bg-center"
                 style={{
                   backgroundImage:
-                    "url('https://images.unsplash.com/photo-1541888946425-d81bb19240f5?w=400&h=200&fit=crop')",
+                    "url('https://www.cundinamarca.gov.co/wcm/connect/69fa86f9-0845-4a9e-b38d-14b81ca4cd58/3.jpg?MOD=AJPERES&CACHEID=ROOTWORKSPACE-69fa86f9-0845-4a9e-b38d-14b81ca4cd58-nexm8JV')",
                 }}
               ></div>
               <CardContent className="pt-6">
@@ -165,7 +165,7 @@ export default function HomePage() {
                 className="h-48 rounded-t-lg bg-cover bg-center"
                 style={{
                   backgroundImage:
-                    "url('https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=400&h=200&fit=crop')",
+                    "url('https://labranzainformativa.com/wp-content/uploads/2021/10/Destacada-san-isidro-tibirita-JPG.jpg')",
                 }}
               ></div>
               <CardContent className="pt-6">
@@ -184,7 +184,7 @@ export default function HomePage() {
                 className="h-48 rounded-t-lg bg-cover bg-center"
                 style={{
                   backgroundImage:
-                    "url('https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=200&fit=crop')",
+                    "url('https://scontent.fbog18-1.fna.fbcdn.net/v/t51.75761-15/491502832_18062932763013808_4893753291955114120_n.jpg?stp=dst-jpg_p552x414_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeH3bODLGtcn-m3YwZcF6TjmL3ATnr5cFsgvcBOevlwWyOdXadGST5JbsKQ7yDUTIBR7iuCY6P6WSEMC3S6DZaqo&_nc_ohc=DWzIte7kMwEQ7kNvwHHEF5M&_nc_oc=AdnVCBxJSDG-LznT6_zj73X_YdHDVeu9MT8yeZuR3CZnYELMBRT6GRpNdeuzXzb0-LM&_nc_zt=23&_nc_ht=scontent.fbog18-1.fna&_nc_gid=2U02e4wWww6LdczINf6vVA&oh=00_AfKt8hbYRJu6j-ia29wU6SWfV8G0eQkuNcoHnZ-Cj49Xwg&oe=683B8934')",
                 }}
               ></div>
               <CardContent className="pt-6">
@@ -237,13 +237,13 @@ export default function HomePage() {
             </div>
             <div>
               <h4 className="text-xl font-bold mb-4">Contacto</h4>
-              <p className="text-gray-300">📧 alcaldia@tibirita.gov.co</p>
-              <p className="text-gray-300">📞 (601) 123-4567</p>
-              <p className="text-gray-300">📍 Carrera 3 # 3-45, Centro</p>
+              <p className="text-gray-300">📧 contactenos@tibirita-cundinamarca.gov.co</p>
+              <p className="text-gray-300">📞  318 595 48 36</p>
+              <p className="text-gray-300">📍 Carrera 4 # 5-21 ENTRADA ALCALDIA MUNICIPAL</p>
             </div>
             <div>
               <h4 className="text-xl font-bold mb-4">Horarios</h4>
-              <p className="text-gray-300">Lunes a Viernes: 8:00 AM - 5:00 PM</p>
+              <p className="text-gray-300">Lunes a Viernes: 8:00 AM - 5:30 PM</p>
               <p className="text-gray-300">Sábados: 8:00 AM - 12:00 PM</p>
             </div>
             <div>
