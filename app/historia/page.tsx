@@ -97,19 +97,21 @@ export default function HistoriaPage() {
               <div>
                 <h4 className="font-semibold text-gray-800 mb-2">Festividades Tradicionales</h4>
                 <ul className="text-gray-700 space-y-1">
-                  <li>• Festival de San Antonio (Junio)</li>
-                  <li>• Fiestas Patronales (Agosto)</li>
-                  <li>• Festival de la Chorrera (Octubre)</li>
-                  <li>• Celebraciones Navideñas</li>
+                  <li>• Festival de Promeseros</li>
+<li>• Ferias y Fiestas</li>
+<li>• Fiestas en honor a la Virgen de los Dolores</li>
+<li>• Coplas y Danzas Religiosas</li>
+
                 </ul>
               </div>
               <div>
                 <h4 className="font-semibold text-gray-800 mb-2">Tradiciones Gastronómicas</h4>
                 <ul className="text-gray-700 space-y-1">
-                  <li>• Ajiaco Tibiriense</li>
-                  <li>• Trucha de los ríos locales</li>
-                  <li>• Quesos artesanales</li>
-                  <li>• Dulces tradicionales</li>
+                 <li>• Gallina con arepa</li>
+<li>• Arepa de maíz pelao</li>
+<li>• Maíz tostado</li>
+<li>• Almojábanas</li>
+
                 </ul>
               </div>
             </div>
